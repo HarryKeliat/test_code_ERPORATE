@@ -1,0 +1,18 @@
+
+.col-lg-12{
+  float: left;
+  font-family: Open Sans;
+  height: auto;
+  background-image: url('../Image/back2.jpg');
+}
+
+#ket{
+  font-size: 35px; 
+  font-weight: bold; 
+  color: white;
+  margin-top: 388px; 
+  margin-bottom: 388px;
+  text-align: center;
+  line-height: 2.0;
+}
+

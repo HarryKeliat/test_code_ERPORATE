@@ -1,0 +1,30 @@
+Program ini memiliki 3 multiuser
+
+-Admin
+username = admin
+password = admin
+
+-kasir
+username = harry
+password = harry
+
+-pelayan
+username = herry
+password = herry
+
+*Jangan lupa import database karena program ini menggunakan databse untuk menampilkan datanya.
+
+*Program ini sudah responsive di semua device.
+
+*Program ini sudah memiliki sistem keamanan jika ada orang belum login tapi mau masuk ke salah satu halaman
+akan langsung dilempar ke halaman keamanan.php.
+
+*Untuk admin bertugas menambah data makanan dan minuman serta merubah status dari "Ready" ke "Not Ready".
+
+*Tujuan penambahan fitur yang tidak masuk kualifikasi karena program ini tidak menggunakan framework dalam 
+pengerjaan karena saya bilang ketika mengisi tes online sebelumnya kalau saya belum pernah menggunakan 
+frame work dan saya sekarang lagi belajar dan juga kurangnya waktu juga dalam pengerjaan jika saya menggunakan 
+framework.
+
+Terima Kasih. . .
+

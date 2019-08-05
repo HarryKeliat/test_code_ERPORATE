@@ -1,0 +1,64 @@
+
+.col-lg-6{
+  float: left;
+  font-family: Open Sans;
+  height: auto;
+  margin-bottom: 57px;
+}
+
+.col-lg-6 h2{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 50px;
+  color: black;
+  font-weight: bold;
+  font-family: Open Sans;
+}
+
+.col-lg-6 h3{
+  color: black;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Open Sans;
+  line-height: 2.0;
+}
+
+.ui-autocomplete 
+  {
+    max-height: 250px;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+* html .ui-autocomplete 
+  {
+    height: 250px;
+  }
+
+  #selamat{
+  color: white;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.rwh-tr{
+  color: black;
+  text-align: center;
+}
+
+.rwd-tr{
+  margin-top:30px;
+  margin-left:30px;
+}
+
+.rwd-tr td{
+  margin-top:30px;
+  color: black;
+}
+
+.rwd-tr td a{
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
